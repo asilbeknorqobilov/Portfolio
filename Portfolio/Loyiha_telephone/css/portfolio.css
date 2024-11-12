@@ -1,0 +1,38 @@
+div{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo img{
+    width: 64px;
+}
+
+.nav {
+    display: inline-block;
+    color: yellow;
+}
+
+.ul {
+    display: inline-block;
+    padding: 10px;
+}
+.nav a {
+    color: greenyellow;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.nav a:hover {
+    color: darkred;
+}
+
+body{
+    background-color: #999999;
+}
+
+.div1 {
+    padding: 100px 30px;
+}
+.div1 div2{
+    width: 50%;
+    float: left;
+}

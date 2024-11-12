@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Forms</title>
+    <style>
+        .container{
+            padding:30px;
+        }
+
+        .radio1 {
+            display: block;
+            position: relative;
+            margin-bottom: 10px;
+            padding-left: 36px;
+        }
+
+        /*Radio botton uchun container*/
+        .form-control{
+            display: block;
+            position: relative;
+            margin-bottom: 10px;
+            padding-left: 36px;
+            cursor:pointer;
+            font-size: 24px;
+        }
+
+        /*Maxsus radio buttonga style berish*/
+        .custom-radio{
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 24px;
+            width: 24px;
+            background-color: #ddd;
+            border-radius: 50%;
+        }
+
+        /*Sichqoncha olib borilganda backround o'zgarishi*/
+        .form-control:hover input ~ .custom-radio {
+            background-color: #ccc;
+        }
+
+        /*Radio button tanlanganda chapdagi background*/
+        .form-control input:checked ~ .custom-radio {
+            background-color: #2d846e;
+        }
+
+        .custom-radio:after {
+            top: 8px;
+            left: 8px;
+            width: 8px;
+            height: 8px;
+            background: white;
+            border-radius: 50%;
+            content: "";
+            position: absolute;
+            display: none;
+        }
+
+        .form-control input:checked ~ .custom-radio:after{
+            display: block;
+        }
+
+        .form-control input {
+            position: absolute;
+            opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Style berilgan radio button</h1>
+            <label clasS="form-control">Radio 1
+                <input type="radio" value="male" name="gender" id="radio1">
+                <span class="custom-radio"></span>
+            </label>
+            <label class="form-control">Radio 2
+                <input type="radio" value="male" name="gender" id="radio2">
+                <span class="custom-radio"></span>
+            </label>
+            <label class="form-control">Radio 3
+                <input type="radio" value="male" name="gender" id="radio2">
+                <span class="custom-radio"></span>
+            </label>
+        </div>
+</body>
+</html>
