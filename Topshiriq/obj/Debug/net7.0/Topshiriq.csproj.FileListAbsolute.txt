@@ -1,0 +1,14 @@
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\bin\Debug\net7.0\Topshiriq.exe
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\bin\Debug\net7.0\Topshiriq.deps.json
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\bin\Debug\net7.0\Topshiriq.runtimeconfig.json
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\bin\Debug\net7.0\Topshiriq.dll
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\bin\Debug\net7.0\Topshiriq.pdb
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.AssemblyInfoInputs.cache
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.AssemblyInfo.cs
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.dll
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\refint\Topshiriq.dll
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.pdb
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\Topshiriq.genruntimeconfig.cache
+C:\Users\Konstantinopol\source\repos\Topshiriq\Topshiriq\obj\Debug\net7.0\ref\Topshiriq.dll
